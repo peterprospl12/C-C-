@@ -1,0 +1,3 @@
+/home/piotr/CLionProjects/PRLab07 - Posix/cmake-build-debug/CMakeFiles/PRLab07.dir
+/home/piotr/CLionProjects/PRLab07 - Posix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/piotr/CLionProjects/PRLab07 - Posix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
