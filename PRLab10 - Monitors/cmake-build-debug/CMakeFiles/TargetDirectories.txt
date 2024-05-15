@@ -1,0 +1,3 @@
+/home/piotr/CLionProjects/PRLab10 - Monitors/cmake-build-debug/CMakeFiles/PRLab10___Monitors.dir
+/home/piotr/CLionProjects/PRLab10 - Monitors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/piotr/CLionProjects/PRLab10 - Monitors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
